@@ -8,7 +8,7 @@ I am Akshada, currently interning as a web developer at BOOST-STAR. I am passion
 ## Projects and Tasks
 Below is a list of projects and tasks that I have completed during my internship:
 
-1.**Task 1:** Complex-Table format .
+1. **Task 1:** Complex-Table format .
    -  link : [https://github.com/akshadakakade-27/BOOST-STAR/blob/db74e2005faa9ec0200aafc47e6664fba630619f/18JAN.html]
    - In this project task created complex table structure given by mentor using simple HTML , <table> tag & its attributes 'colspan , rowspan'.
 
